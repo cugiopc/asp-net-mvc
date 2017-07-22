@@ -25,7 +25,8 @@ namespace WebAPI.DataLayer
                   IsPopular = false,
                   Name = "Example",
                   NumView = 1000,
-                  Tags = "AAA"
+                  Tags = "AAA",
+                  TestField = "Tested"
               }
             );
 

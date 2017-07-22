@@ -8,7 +8,7 @@ namespace WebAPI.DataLayer
         /// <summary>
         /// Initializes a new instance of the <see cref="WebApiDataContext"/> class.
         /// </summary>
-        public WebApiDataContext() : base("name=WebApiDbContext")
+        public WebApiDataContext() : base("name=WebApiDbContextSQL")
         {
         }
 

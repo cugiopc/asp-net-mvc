@@ -120,6 +120,14 @@ namespace WebAPI.Model
         /// </value>
         public long NumView { get; set; }
 
+        /// <summary>
+        /// Gets or sets the test field.
+        /// </summary>
+        /// <value>
+        /// The test field.
+        /// </value>
+        public string TestField { get; set; }
+
     }
 
 }
