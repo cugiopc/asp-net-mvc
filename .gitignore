@@ -6,3 +6,5 @@ packages/
 */dist/
 Web API/*/obj
 Web API/*/bin
+Web API/*/App_Data
+StarMovie/App_Data
