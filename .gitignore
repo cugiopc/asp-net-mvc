@@ -4,3 +4,5 @@ packages/
 */obj/
 */node_modules/
 */dist/
+Web API/*/obj
+Web API/*/bin
